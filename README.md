@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/Anitha119/Anitha/blob/main/images/20210418_171345.jpg)
+![alt text](https://github.com/Anitha119/Anitha/blob/main/images/Anitha.jpg)
 
 <!-- Add your details -->
 
